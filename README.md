@@ -1,3 +1,5 @@
+![Consul Envoy Icon](https://github.com/VitoVan/consul-envoy/raw/master/iconfile.png)
+
 # consul-envoy
 
 Docker Image for Consul + Envoy
