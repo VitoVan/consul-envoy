@@ -5,7 +5,7 @@ Docker Image for Consul + Envoy
 Current Version:
 
 - Consul v1.6.2
-- Envoy v1.8.0
+- Envoy v1.11.1
 
 ## How to Use
 
