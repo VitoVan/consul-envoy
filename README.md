@@ -2,6 +2,8 @@
 
 # consul-envoy
 
+[![Docker Image for Consul Envoy](https://img.shields.io/docker/cloud/build/vitovan/consul-envoy)](https://hub.docker.com/r/vitovan/consul-envoy)
+
 Docker Image for Consul + Envoy
 
 Current Version:
